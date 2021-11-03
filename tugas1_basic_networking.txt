@@ -1,0 +1,16 @@
+Tugas 1
+
+1. OSI memiliki kepanjangan dari ?
+   Open System Interconnection Layer.
+
+2. Bilangan 11011001 merupakan contoh bentuk dari bilangan ?
+   Bilangan binary (biner).
+
+3. Bentuk desimal dari 11011001 adalah ?
+   1+8+16+64+128 = 217.
+
+4. Menjelaskan spesifikasi mekanis, kabel dan fungsional guna menangani data jaringan merupakan proses pada layer ?
+   Physical Layer.
+
+5. Bilangan 3f dan 8a merupakan contoh bentuk dari bilangan ?
+   Bilangan Hexadecimal.
